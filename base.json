@@ -1,19 +1,23 @@
 {
   "channel": "base",
-  "version": "3.36.0",
-  "baseVersion": "3.36.0",
-  "buildId": "ab3cd5d",
-  "released": "2026-10-10",
+  "version": "3.37.0",
+  "baseVersion": "3.37.0",
+  "buildId": "1db6629",
+  "released": "2026-10-15",
   "package": {
-    "file": "archimedes-base-3.36.0.zip",
-    "sha256": "ced863c7a3907eb3df88902f6bf3f669e6c8c4f68c221af4b8dc32248ec5f1dd"
+    "file": "archimedes-base-3.37.0.zip",
+    "sha256": "a38c264a193f0c9a774c8771fe13adaf45e9e39eedb4a3be2bd99f4d3b0ceb62"
   },
   "plugins": {
-    "the-workshop": "2.32.0",
-    "the-lever": "1.8.4",
+    "the-workshop": "2.33.0",
+    "the-lever": "1.8.5",
     "the-fulcrum": "1.2.0"
   },
   "headlines": [
+    {
+      "version": "3.37.0",
+      "headline": "Nothing acts on a word in a file, and nothing outbound makes up a claim"
+    },
     {
       "version": "3.36.0",
       "headline": "Check for Updates can see new releases, and never calls a stale install current"
@@ -69,10 +73,6 @@
     {
       "version": "3.25.0",
       "headline": "The watcher that reads what your agents already write"
-    },
-    {
-      "version": "3.24.1",
-      "headline": "Third-party integration recommendation removed"
     }
   ]
 }
