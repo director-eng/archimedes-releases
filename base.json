@@ -1,0 +1,78 @@
+{
+  "channel": "base",
+  "version": "3.36.0",
+  "baseVersion": "3.36.0",
+  "buildId": "ab3cd5d",
+  "released": "2026-10-10",
+  "package": {
+    "file": "archimedes-base-3.36.0.zip",
+    "sha256": "ced863c7a3907eb3df88902f6bf3f669e6c8c4f68c221af4b8dc32248ec5f1dd"
+  },
+  "plugins": {
+    "the-workshop": "2.32.0",
+    "the-lever": "1.8.4",
+    "the-fulcrum": "1.2.0"
+  },
+  "headlines": [
+    {
+      "version": "3.36.0",
+      "headline": "Check for Updates can see new releases, and never calls a stale install current"
+    },
+    {
+      "version": "3.35.0",
+      "headline": "Archimedes stops competing with Claude itself"
+    },
+    {
+      "version": "3.34.0",
+      "headline": "Where Claude runs now, and four skills for seeing the business clearly"
+    },
+    {
+      "version": "3.33.0",
+      "headline": "One Claude, and a product that says so"
+    },
+    {
+      "version": "3.32.0",
+      "headline": "Every deliverable shows its work"
+    },
+    {
+      "version": "3.31.0",
+      "headline": "The five gates stop being a reflex"
+    },
+    {
+      "version": "3.30.0",
+      "headline": "The platform moved and the product had not"
+    },
+    {
+      "version": "3.29.0",
+      "headline": "Two operating systems are worse than one, and a score you have to earn"
+    },
+    {
+      "version": "3.28.0",
+      "headline": "Procedures that cannot be misread"
+    },
+    {
+      "version": "3.27.0",
+      "headline": "Authority is earned, and every capability says what it can touch"
+    },
+    {
+      "version": "3.26.1",
+      "headline": "Answer the person first, and stop making folders they did not ask for"
+    },
+    {
+      "version": "3.26.0",
+      "headline": "The review response: claims now lose to mechanisms"
+    },
+    {
+      "version": "3.25.1",
+      "headline": "Arm the Loop names the scheduler screen"
+    },
+    {
+      "version": "3.25.0",
+      "headline": "The watcher that reads what your agents already write"
+    },
+    {
+      "version": "3.24.1",
+      "headline": "Third-party integration recommendation removed"
+    }
+  ]
+}
