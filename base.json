@@ -1,19 +1,27 @@
 {
   "channel": "base",
-  "version": "3.37.0",
-  "baseVersion": "3.37.0",
-  "buildId": "1db6629",
-  "released": "2026-10-15",
+  "version": "3.37.2",
+  "baseVersion": "3.37.2",
+  "buildId": "c9da888",
+  "released": "2026-10-19",
   "package": {
-    "file": "archimedes-base-3.37.0.zip",
-    "sha256": "a38c264a193f0c9a774c8771fe13adaf45e9e39eedb4a3be2bd99f4d3b0ceb62"
+    "file": "archimedes-base-3.37.2.zip",
+    "sha256": "4e5ba8884fbc482b26c0affcca77dd1476a034aa1414e0b71a6f3313ba251ebf"
   },
   "plugins": {
-    "the-workshop": "2.33.0",
-    "the-lever": "1.8.5",
-    "the-fulcrum": "1.2.0"
+    "the-workshop": "2.34.0",
+    "the-lever": "1.8.6",
+    "the-fulcrum": "1.2.1"
   },
   "headlines": [
+    {
+      "version": "3.37.2",
+      "headline": "Gates on what you send, and scripts that guard what Archimedes records"
+    },
+    {
+      "version": "3.37.1",
+      "headline": "A bar for change, and rules that say what to do"
+    },
     {
       "version": "3.37.0",
       "headline": "Nothing acts on a word in a file, and nothing outbound makes up a claim"
@@ -65,14 +73,6 @@
     {
       "version": "3.26.0",
       "headline": "The review response: claims now lose to mechanisms"
-    },
-    {
-      "version": "3.25.1",
-      "headline": "Arm the Loop names the scheduler screen"
-    },
-    {
-      "version": "3.25.0",
-      "headline": "The watcher that reads what your agents already write"
     }
   ]
 }
