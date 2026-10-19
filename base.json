@@ -1,19 +1,23 @@
 {
   "channel": "base",
-  "version": "3.37.2",
-  "baseVersion": "3.37.2",
-  "buildId": "c9da888",
+  "version": "3.37.3",
+  "baseVersion": "3.37.3",
+  "buildId": "c071ac4",
   "released": "2026-10-19",
   "package": {
-    "file": "archimedes-base-3.37.2.zip",
-    "sha256": "4e5ba8884fbc482b26c0affcca77dd1476a034aa1414e0b71a6f3313ba251ebf"
+    "file": "archimedes-base-3.37.3.zip",
+    "sha256": "3f405e129ae659e4344c996a437b4b792050342a409435c0df4d6e2a2a3d28a1"
   },
   "plugins": {
-    "the-workshop": "2.34.0",
+    "the-workshop": "2.34.1",
     "the-lever": "1.8.6",
     "the-fulcrum": "1.2.1"
   },
   "headlines": [
+    {
+      "version": "3.37.3",
+      "headline": "Hooks run on Windows without Git Bash; Doctrine Guard now covers the PowerShell tool"
+    },
     {
       "version": "3.37.2",
       "headline": "Gates on what you send, and scripts that guard what Archimedes records"
@@ -69,10 +73,6 @@
     {
       "version": "3.26.1",
       "headline": "Answer the person first, and stop making folders they did not ask for"
-    },
-    {
-      "version": "3.26.0",
-      "headline": "The review response: claims now lose to mechanisms"
     }
   ]
 }
