@@ -1,19 +1,23 @@
 {
   "channel": "base",
-  "version": "3.37.4",
-  "baseVersion": "3.37.4",
-  "buildId": "b497071",
-  "released": "2026-10-21",
+  "version": "3.37.5",
+  "baseVersion": "3.37.5",
+  "buildId": "8ef410a",
+  "released": "2026-10-22",
   "package": {
-    "file": "archimedes-base-3.37.4.zip",
-    "sha256": "52fcb0d7fe3c9737cad2dd2206fedccda26c903f05c74659eacb336dc13694d7"
+    "file": "archimedes-base-3.37.5.zip",
+    "sha256": "06944f4a1f38a03e0f8480ced5f28fc536cafedd5ee563d6ee48ff710032fd7f"
   },
   "plugins": {
-    "the-workshop": "2.34.2",
+    "the-workshop": "2.34.3",
     "the-lever": "1.8.6",
     "the-fulcrum": "1.2.1"
   },
   "headlines": [
+    {
+      "version": "3.37.5",
+      "headline": "The shell guard runs on a Windows PC without Git Bash, and never blocks because it could not start"
+    },
     {
       "version": "3.37.4",
       "headline": "Upgrade Archimedes downloads on your computer, and stops in the wrong folder"
@@ -69,10 +73,6 @@
     {
       "version": "3.28.0",
       "headline": "Procedures that cannot be misread"
-    },
-    {
-      "version": "3.27.0",
-      "headline": "Authority is earned, and every capability says what it can touch"
     }
   ]
 }
